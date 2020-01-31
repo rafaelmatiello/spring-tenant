@@ -1,5 +1,6 @@
 # spring-tenant
-* Projetos básicos em spring multi tenant,
+* Projetos básicos em spring multi tenant
+
 
 # Projetos
 ## MultiTenant-registry
@@ -10,3 +11,5 @@
 * Multi tenant com esquemas diferentes.
 * Multi tenant com banco de dados diferentes.
 
+# Libs
+* AspectJ
